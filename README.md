@@ -1,7 +1,3 @@
-# [Start Bootstrap - Modern Business](https://startbootstrap.com/template/modern-business/)
-
-[Modern Business](https://startbootstrap.com/template/modern-business/) ua1 [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).ua2.
-
 ## Preview
 
 [![Modern Business Preview](https://assets.startbootstrap.com/img/screenshots/templates/modern-business.png)](https://startbootstrap.github.io/startbootstrap-modern-business/)
