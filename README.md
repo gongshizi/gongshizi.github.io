@@ -1,6 +1,6 @@
 # [Start Bootstrap - Modern Business](https://startbootstrap.com/template/modern-business/)
 
-[Modern Business](https://startbootstrap.com/template/modern-business/) is a multipurpose, full website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+[Modern Business](https://startbootstrap.com/template/modern-business/) ua1 [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).ua2.
 
 ## Preview
 
